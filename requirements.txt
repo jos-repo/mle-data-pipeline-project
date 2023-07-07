@@ -1,0 +1,7 @@
+pyspark==3.4.0
+jupyter
+pandas
+faust-streaming
+pyarrow
+google-cloud-storage
+click
